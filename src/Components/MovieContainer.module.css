@@ -1,0 +1,41 @@
+/* MovieContainer.module.css */
+
+.MovieContainer {
+    margin: 0 auto;
+    max-width: 800px;
+    padding: 50px;
+    color: #d633ff; 
+  }
+  
+  .MovieContainer ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .MovieContainer li {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ff0000;
+    border-style: dotted;
+  }
+  
+  .MovieContainer li strong {
+    font-size: 18px;
+  }
+  
+  .MovieContainer li button {
+    margin-top: 10px;
+    padding: 5px 10px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .MovieContainer li button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+
+
+
+  

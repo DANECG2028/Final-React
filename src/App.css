@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+
+main {
+  display: flex; /* Use flexbox layout for main area */
+}
+
+
+body {
+  background-image: url('./images/movie-146704_1280.png');
+  
+}

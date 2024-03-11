@@ -1,0 +1,5 @@
+/* Content.css */
+.content {
+    flex: 1; /* Take up remaining space */
+    padding: 20px;
+}

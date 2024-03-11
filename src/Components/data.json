@@ -1,0 +1,56 @@
+{
+  "Movies": [
+    {
+      "id": 1,
+      "title": "The Shawshank Redemption",
+      "genre": "Drama",
+      "releaseYear": 1994,
+      "director": "Frank Darabont",
+      "rating": 9.3
+    },
+    {
+      "id": 2,
+      "title": "The Godfather",
+      "genre": "Crime",
+      "releaseYear": 1972,
+      "director": "Francis Ford Coppola",
+      "rating": 9.2
+    }
+  ],
+  "TV Shows": [
+    {
+      "id": 1,
+      "title": "Breaking Bad",
+      "genre": "Crime",
+      "releaseYear": 2008,
+      "director": "Vince Gilligan",
+      "rating": 9.5
+    },
+    {
+      "id": 2,
+      "title": "Game of Thrones",
+      "genre": "Fantasy",
+      "releaseYear": 2011,
+      "director": "David Benioff, D.B. Weiss",
+      "rating": 9.3
+    }
+  ],
+  "Favorites": [
+    {
+      "id": 1,
+      "title": "The Matrix",
+      "genre": "Action",
+      "releaseYear": 1999,
+      "director": "Lana Wachowski, Lilly Wachowski",
+      "rating": 8.7
+    },
+    {
+      "id": 2,
+      "title": "Pulp Fiction",
+      "genre": "Crime",
+      "releaseYear": 1994,
+      "director": "Quentin Tarantino",
+      "rating": 8.9
+    }
+  ]
+}
